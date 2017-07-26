@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:3:5-52
+	android:versionName
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:6:5-34
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:5:5-34
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:4:5-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:15:22-78
+application
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:17:5-51:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /home/akshaj/.android/build-cache/edf9250cfab5b8c3fdaa2a801f1673b73f2e8b04/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/akshaj/.android/build-cache/778ec33541e9a9180cf6980f6da7fe2b3c422fd0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/akshaj/.android/build-cache/6e09686b397e7f6630a59209c55c7c187a426a9d/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.2] /home/akshaj/.android/build-cache/a88f349330d858fa367a7e2e2e59566fe2a97f7a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/akshaj/.android/build-cache/c109a78b8934f3b4d1f41aed010e21f969ce1de5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/akshaj/.android/build-cache/ba5b2267753aa273f7c9e318afd15fdb59f84e12/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/akshaj/.android/build-cache/3999e6a501715dd61a30fdc43ba69f54db91da00/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/akshaj/.android/build-cache/85d8c6000db63651cb1b2bf8a2eb50cf99aac1e2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/akshaj/.android/build-cache/69221132b2d8df40087f930d16249c3743aba2e5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/akshaj/.android/build-cache/032737b4c3005bc3c411154e302b9cd6ad9e5818/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/akshaj/.android/build-cache/1f85ba81054bdfbf94e2eb8e64f2b994b3e7007e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/akshaj/.android/build-cache/63438502b7bf1cec0b724619a2395033f62aa55c/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:21:9-40
+activity#com.wahoofitness.samples.apisampleapp.ui.GoogleSignInActivity
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:23:9-32:20
+	android:screenOrientation
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:25:13-38
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:24:13-89
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:29:27-74
+activity#com.wahoofitness.samples.apisampleapp.ui.DiscoverActivity
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:34:9-38:20
+	android:screenOrientation
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:35:13-85
+service#com.wahoofitness.samples.apisampleapp.service.HardwareConnectorService
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:40:9-43:19
+	android:enabled
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:42:13-35
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:41:13-98
+activity#com.wahoofitness.samples.apisampleapp.ui.DeviceDetailsActivity
+ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:45:9-49:20
+	android:screenOrientation
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml:46:13-90
+uses-sdk
+INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.firebase:firebase-database:11.0.2] /home/akshaj/.android/build-cache/7db9c8497482773159426ab8017da93baeff02ae/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /home/akshaj/.android/build-cache/5735b85b4a84d012074b70ce47469b49787bfc82/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /home/akshaj/.android/build-cache/d15e6314b8424b5e0e0e8b9513054d10262bd013/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.2] /home/akshaj/.android/build-cache/edf9250cfab5b8c3fdaa2a801f1673b73f2e8b04/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/akshaj/.android/build-cache/778ec33541e9a9180cf6980f6da7fe2b3c422fd0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/akshaj/.android/build-cache/6e09686b397e7f6630a59209c55c7c187a426a9d/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.2] /home/akshaj/.android/build-cache/a88f349330d858fa367a7e2e2e59566fe2a97f7a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /home/akshaj/.android/build-cache/c109a78b8934f3b4d1f41aed010e21f969ce1de5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /home/akshaj/.android/build-cache/ba5b2267753aa273f7c9e318afd15fdb59f84e12/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/akshaj/.android/build-cache/3999e6a501715dd61a30fdc43ba69f54db91da00/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/akshaj/.android/build-cache/85d8c6000db63651cb1b2bf8a2eb50cf99aac1e2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/akshaj/.android/build-cache/69221132b2d8df40087f930d16249c3743aba2e5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/akshaj/.android/build-cache/032737b4c3005bc3c411154e302b9cd6ad9e5818/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/akshaj/.android/build-cache/1f85ba81054bdfbf94e2eb8e64f2b994b3e7007e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/akshaj/.android/build-cache/63438502b7bf1cec0b724619a2395033f62aa55c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /home/akshaj/.android/build-cache/a0df83a11f258d518137da1ddef1b9890a19353d/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /home/akshaj/.android/build-cache/fea1b9ae479823444c406003159831abc0b102ea/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /home/akshaj/.android/build-cache/5e31be8c7e3a3f687a81fe736762717f2d16246b/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /home/akshaj/.android/build-cache/6b77825d69ce89fec312e82d91bcf8cdd96bbc40/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:24:17-71
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:26:22-76
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:33:27-58
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /home/akshaj/.android/build-cache/7a6852e25d915aa93cd52733f0169c4b9ed31c77/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:6:19-78
+		INJECTED from /home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /home/akshaj/.android/build-cache/5916dbe841da54eee2e7f8e99ae61e283d20a367/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/akshaj/.android/build-cache/ba5b2267753aa273f7c9e318afd15fdb59f84e12/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/akshaj/.android/build-cache/ba5b2267753aa273f7c9e318afd15fdb59f84e12/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /home/akshaj/.android/build-cache/ba5b2267753aa273f7c9e318afd15fdb59f84e12/output/AndroidManifest.xml:20:20-65

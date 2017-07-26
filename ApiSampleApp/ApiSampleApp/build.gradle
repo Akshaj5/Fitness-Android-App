@@ -1,0 +1,50 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 25
+
+        return void
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_6
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+}
+
+
+dependencies {
+    compile files('libs/wahoo_fitness_android_api_1.7.1.5.jar')
+    compile 'com.google.firebase:firebase-database:11.0.2'
+    compile 'com.google.android.gms:play-services-auth:11.0.2'
+    compile 'com.google.firebase:firebase-auth:11.0.2'
+    compile "com.android.support:appcompat-v7:25.0.+"
+}
+
+apply plugin: 'com.google.gms.google-services'

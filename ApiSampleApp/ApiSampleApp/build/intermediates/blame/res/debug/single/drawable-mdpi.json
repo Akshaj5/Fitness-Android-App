@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_about.png",
+        "source": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/res/drawable-mdpi/ic_action_about.png"
+    },
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/res/drawable-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/akshaj/.android/build-cache/8d63bef4aea9fdba8013873f4571976c90bdb27c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

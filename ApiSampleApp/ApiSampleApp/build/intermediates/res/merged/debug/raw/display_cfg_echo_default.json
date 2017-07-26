@@ -1,0 +1,2703 @@
+{
+    "id": "ECHO DEFAULT (auto gen)",
+    "strings": [
+        {
+            "value": "en",
+            "key": "SystemStringLanguageLocale",
+            "constant": true
+        },
+        {
+            "value": "English",
+            "key": "SystemStringLanguageName",
+            "constant": true
+        },
+        {
+            "value": "All rights\nreserved.",
+            "key": "SystemStringStartupRights",
+            "constant": true
+        },
+        {
+            "value": "Searching",
+            "key": "SystemStringSearchInform",
+            "constant": true
+        },
+        {
+            "value": "Factory Reset",
+            "key": "SystemStringFactoryresetAsk",
+            "constant": true
+        },
+        {
+            "value": "Connection Found",
+            "key": "SystemStringAlertConnectionFoundInform",
+            "constant": true
+        },
+        {
+            "value": "Connection Lost",
+            "key": "SystemStringAlertConnectionLostInform",
+            "constant": true
+        },
+        {
+            "value": "Syncing",
+            "key": "SystemStringSyncInform",
+            "constant": true
+        },
+        {
+            "value": "Updating",
+            "key": "SystemStringSoftwareupdateInform",
+            "constant": true
+        },
+        {
+            "value": "Battery Low",
+            "key": "SystemStringAlertBatteryLowInform",
+            "constant": true
+        },
+        {
+            "value": "Power Down",
+            "key": "SystemStringAlertAutopowerdownInform",
+            "constant": true
+        },
+        {
+            "value": "Tap to Cancel",
+            "key": "SystemStringAlertAutopowerdownTap",
+            "constant": true
+        },
+        {
+            "value": "Unit Serial #",
+            "key": "SystemStringDeviceSerialNumber",
+            "constant": true
+        },
+        {
+            "value": "Software Version",
+            "key": "SystemStringSoftwareVersion",
+            "constant": true
+        },
+        {
+            "value": "Sunday",
+            "key": "SystemStringCalendarDayofweekFullSun",
+            "constant": true
+        },
+        {
+            "value": "Monday",
+            "key": "SystemStringCalendarDayofweekFullMon",
+            "constant": true
+        },
+        {
+            "value": "Tuesday",
+            "key": "SystemStringCalendarDayofweekFullTue",
+            "constant": true
+        },
+        {
+            "value": "Wednesday",
+            "key": "SystemStringCalendarDayofweekFullWed",
+            "constant": true
+        },
+        {
+            "value": "Thursday",
+            "key": "SystemStringCalendarDayofweekFullThu",
+            "constant": true
+        },
+        {
+            "value": "Friday",
+            "key": "SystemStringCalendarDayofweekFullFri",
+            "constant": true
+        },
+        {
+            "value": "Saturday",
+            "key": "SystemStringCalendarDayofweekFullSat",
+            "constant": true
+        },
+        {
+            "value": "Update Successful",
+            "key": "SystemStringSoftwareUpdateSuccessfulInform",
+            "constant": true
+        },
+        {
+            "value": "Update Failed",
+            "key": "SystemStringSoftwareUpdateFailedInform",
+            "constant": true
+        },
+        {
+            "value": "Tap to Close",
+            "key": "SystemStringAlertCloseInstruct",
+            "constant": true
+        },
+        {
+            "value": "Getting Started",
+            "key": "SystemStringInitialInform",
+            "constant": true
+        },
+        {
+            "value": "SUN",
+            "key": "SystemStringCalendarDayOfWeekAbbrSun",
+            "constant": true
+        },
+        {
+            "value": "MON",
+            "key": "SystemStringCalendarDayOfWeekAbbrMon",
+            "constant": true
+        },
+        {
+            "value": "TUE",
+            "key": "SystemStringCalendarDayOfWeekAbbrTue",
+            "constant": true
+        },
+        {
+            "value": "WED",
+            "key": "SystemStringCalendarDayOfWeekAbbrWed",
+            "constant": true
+        },
+        {
+            "value": "THU",
+            "key": "SystemStringCalendarDayOfWeekAbbrThu",
+            "constant": true
+        },
+        {
+            "value": "FRI",
+            "key": "SystemStringCalendarDayOfWeekAbbrFri",
+            "constant": true
+        },
+        {
+            "value": "SAT",
+            "key": "SystemStringCalendarDayOfWeekAbbrSat",
+            "constant": true
+        },
+        {
+            "value": "JAN",
+            "key": "systemStringCalendarMonthAbbrJan",
+            "constant": true
+        },
+        {
+            "value": "FEB",
+            "key": "systemStringCalendarMonthAbbrFeb",
+            "constant": true
+        },
+        {
+            "value": "MAR",
+            "key": "systemStringCalendarMonthAbbrMar",
+            "constant": true
+        },
+        {
+            "value": "APR",
+            "key": "systemStringCalendarMonthAbbrApr",
+            "constant": true
+        },
+        {
+            "value": "MAY",
+            "key": "systemStringCalendarMonthAbbrMay",
+            "constant": true
+        },
+        {
+            "value": "JUN",
+            "key": "systemStringCalendarMonthAbbrJun",
+            "constant": true
+        },
+        {
+            "value": "JUL",
+            "key": "systemStringCalendarMonthAbbrJul",
+            "constant": true
+        },
+        {
+            "value": "AUG",
+            "key": "systemStringCalendarMonthAbbrAug",
+            "constant": true
+        },
+        {
+            "value": "SEP",
+            "key": "systemStringCalendarMonthAbbrSep",
+            "constant": true
+        },
+        {
+            "value": "OCT",
+            "key": "systemStringCalendarMonthAbbrOct",
+            "constant": true
+        },
+        {
+            "value": "NOV",
+            "key": "systemStringCalendarMonthAbbrNov",
+            "constant": true
+        },
+        {
+            "value": "DEC",
+            "key": "systemStringCalendarMonthAbbrDec",
+            "constant": true
+        },
+        {
+            "value": "2013 Mitac\nInternational\nCorporation.",
+            "key": "SystemStringStartupCopyright",
+            "constant": true
+        },
+        {
+            "value": "",
+            "key": "systemStringSystemDate",
+            "constant": false
+        },
+        {
+            "value": "",
+            "key": "systemStringSystemTime",
+            "constant": false
+        }
+    ],
+    "buttons": {
+        "buttonSouthWestTouched": "LAP",
+        "buttonScreenTouched": "PAGE_RIGHT",
+        "buttonNorthWestTouched": "TOGGLE_BACKLIGHT",
+        "buttonNorthEastTouched": "PLAY_PAUSE_SONG",
+        "buttonSouthEastTouched": "START_STOP_WORKOUT",
+        "buttonFrontTouched": ""
+    },
+    "custom": {},
+    "sounds": [
+        {
+            "value": "500 100 /s 50 1500 150 /s 50 2500 300",
+            "key": "WORKOUT_START"
+        },
+        {
+            "value": "800 200 /s 50 800 100",
+            "key": "WORKOUT_PAUSE"
+        },
+        {
+            "value": "2000 100 /s 50 2000 200",
+            "key": "WORKOUT_RESUME"
+        },
+        {
+            "value": "500 200 /s 50 500 100",
+            "key": "WORKOUT_STOP"
+        },
+        {
+            "value": "1500 250",
+            "key": "DEFAULT"
+        },
+        {
+            "value": "1500 400 /s 100 1000 100",
+            "key": "LAP"
+        }
+    ],
+    "pages": [
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Workout Summary\nWorkout time, current heartrate, speed and distance travelled",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "TIME",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                22,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1:23:51",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_WORKOUT"
+                },
+                {
+                    "frame": [
+                        0,
+                        48,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                48,
+                                64,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "HEART",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                54,
+                                64,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "125",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "HR_CURRENT"
+                },
+                {
+                    "frame": [
+                        64,
+                        48,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                64,
+                                48,
+                                64,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "SPEED",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                64,
+                                54,
+                                64,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "35.8",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "SPEED_CURRENT"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                80,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "DISTANCE",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                86,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "45.1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "DISTANCE_WORKOUT"
+                }
+            ],
+            "key": "WORKOUT_SUMMARY",
+            "pageIndex": 0,
+            "custom": {}
+        },
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Time Summary\nWorkout time, lap time and last lap time",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "WORKOUT TIME",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                22,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1:23:51",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_WORKOUT"
+                },
+                {
+                    "frame": [
+                        0,
+                        48,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                48,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "LAP",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                54,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "11:43",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_LAP"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                80,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "LAST",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                86,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:54",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_PREVLAP"
+                }
+            ],
+            "key": "TIME_SUMMARY",
+            "pageIndex": 1,
+            "custom": {}
+        },
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Heartrate Summary\nCurrent heartrate and the workout average and max",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        66
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System14",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "HEART BPM",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System76",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "125",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "HR_CURRENT"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                13,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "AVG",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                13,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "114",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "HR_WORKOUT_AV"
+                },
+                {
+                    "frame": [
+                        64,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                64,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "MAX",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                64,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "150",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "HR_WORKOUT_MAX"
+                }
+            ],
+            "key": "HR_SUMMARY",
+            "pageIndex": 2,
+            "custom": {}
+        },
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Calories\nHeartrate, calories and colorie burn rate",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "HEART BPM",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                22,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "125",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "HR_CURRENT"
+                },
+                {
+                    "frame": [
+                        0,
+                        48,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                48,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "CALORIES",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                54,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1254",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "CALORIES"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                80,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "CALORIES/HR",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                86,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "CALORIES_PER_HR"
+                }
+            ],
+            "key": "HR_CALORIES",
+            "pageIndex": 3,
+            "custom": {}
+        },
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Cadence Summary\nCurrent cadence and the workout average and max",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        66
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System14",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "CADENCE RPM",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System76",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "67",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BIKE_CAD_CURRENT"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                13,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "AVG",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                13,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "55",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BIKE_CAD_WORKOUT_AV"
+                },
+                {
+                    "frame": [
+                        64,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                64,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "MAX",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                64,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "78",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BIKE_CAD_WORKOUT_MAX"
+                }
+            ],
+            "key": "BIKE_CAD_SUMMARY",
+            "pageIndex": 4,
+            "custom": {}
+        },
+        {
+            "hidden": false,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Speed Summary\nCurrent speed and the workout average and max",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        66
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System14",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "SPEED KPH",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System76",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "35.8",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "SPEED_CURRENT"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                13,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "AVG",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                13,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "23.4",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "SPEED_WORKOUT_AV"
+                },
+                {
+                    "frame": [
+                        64,
+                        80,
+                        64,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                64,
+                                80,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "MAX",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                64,
+                                90,
+                                52,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System24",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "45.3",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "SPEED_WORKOUT_MAX"
+                }
+            ],
+            "key": "SPEED_SUMMARY",
+            "pageIndex": 5,
+            "custom": {}
+        },
+        {
+            "hidden": true,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Workout Start\nPopup message",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        40,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                43,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "WORKOUT",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TOP"
+                },
+                {
+                    "frame": [
+                        0,
+                        66,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                69,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "STARTED",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BOTTOM"
+                }
+            ],
+            "key": "WORKOUT_STARTED",
+            "pageIndex": 6,
+            "custom": {
+                "trigger": "WORKOUT_START"
+            }
+        },
+        {
+            "hidden": true,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Workout Paused\nPopup message",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        40,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                43,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "WORKOUT",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TOP"
+                },
+                {
+                    "frame": [
+                        0,
+                        66,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                69,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "PAUSED",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BOTTOM"
+                }
+            ],
+            "key": "WORKOUT_PAUSED",
+            "pageIndex": 7,
+            "custom": {
+                "trigger": "WORKOUT_PAUSE"
+            }
+        },
+        {
+            "hidden": true,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Workout Resumed\nPopup message",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        40,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                43,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "WORKOUT",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TOP"
+                },
+                {
+                    "frame": [
+                        0,
+                        66,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                69,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "RESUMED",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BOTTOM"
+                }
+            ],
+            "key": "WORKOUT_RESUMED",
+            "pageIndex": 8,
+            "custom": {
+                "trigger": "WORKOUT_RESUME"
+            }
+        },
+        {
+            "hidden": true,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Workout Stopped\nPopup message",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        40,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                43,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "WORKOUT",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TOP"
+                },
+                {
+                    "frame": [
+                        0,
+                        66,
+                        128,
+                        24
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                69,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System18",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "STOPPED",
+                            "type": "string",
+                            "key": "units"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "BOTTOM"
+                }
+            ],
+            "key": "WORKOUT_STOPPED",
+            "pageIndex": 9,
+            "custom": {
+                "trigger": "WORKOUT_STOP"
+            }
+        },
+        {
+            "hidden": true,
+            "buttons": {},
+            "soundKey": "",
+            "comment": "Last Lap Summary\nThe current lap number and the last lap's time and distance",
+            "elements": [
+                {
+                    "frame": [
+                        0,
+                        14,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        3,
+                        36,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                1,
+                                44,
+                                10
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:00",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_CURRENT_SYS"
+                },
+                {
+                    "frame": [
+                        0,
+                        114,
+                        128,
+                        1
+                    ],
+                    "fillColor": "",
+                    "type": "rect",
+                    "color": "",
+                    "hidden": false,
+                    "key": ""
+                },
+                {
+                    "frame": [
+                        47,
+                        118,
+                        35,
+                        0
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                42,
+                                115,
+                                44,
+                                7
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "1 of 1",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "PageNo"
+                },
+                {
+                    "frame": [
+                        0,
+                        16,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                16,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "LAP NUMBER",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                22,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "67",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "LAP_NUMBER"
+                },
+                {
+                    "frame": [
+                        0,
+                        48,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                48,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "LAST LAP TIME",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                54,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "12:54",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "TIME_PREVLAP"
+                },
+                {
+                    "frame": [
+                        0,
+                        80,
+                        128,
+                        33
+                    ],
+                    "type": "group",
+                    "elements": [
+                        {
+                            "bold": false,
+                            "constant": true,
+                            "frame": [
+                                0,
+                                80,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System12",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "LAST LAP DISTANCE",
+                            "type": "string",
+                            "key": "units"
+                        },
+                        {
+                            "bold": false,
+                            "constant": false,
+                            "frame": [
+                                0,
+                                86,
+                                128,
+                                0
+                            ],
+                            "maxLength": 18,
+                            "color": "None",
+                            "font": "System30",
+                            "hidden": false,
+                            "align": "center",
+                            "value": "4.4",
+                            "type": "string",
+                            "key": "value"
+                        }
+                    ],
+                    "hidden": false,
+                    "key": "DISTANCE_PREVLAP"
+                }
+            ],
+            "key": "LAST_LAP_SUMMARY",
+            "pageIndex": 10,
+            "custom": {
+                "trigger": "LAP"
+            }
+        }
+    ],
+    "name": "ECHO DEFAULT (auto gen)"
+}

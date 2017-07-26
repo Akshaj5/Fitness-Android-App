@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wahoo_fitness_android_api_1.7.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ApiSampleApp/libs/wahoo_fitness_android_api_1.7.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

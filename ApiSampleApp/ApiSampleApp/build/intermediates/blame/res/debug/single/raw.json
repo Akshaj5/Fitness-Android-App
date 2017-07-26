@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/raw/display_cfg_echo_default.json",
+        "source": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/res/raw/display_cfg_echo_default.json"
+    },
+    {
+        "merged": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/build/intermediates/res/merged/debug/raw/display_cfg_rflkt_default.json",
+        "source": "/home/akshaj/AndroidStudioProjects/ApiSampleApp-1.7.1.5/ApiSampleApp/ApiSampleApp/res/raw/display_cfg_rflkt_default.json"
+    }
+]
